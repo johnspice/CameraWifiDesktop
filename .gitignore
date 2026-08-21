@@ -1,0 +1,61 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+.env
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / archivos ejecutables
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribución / empaquetado
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Cobertura de pruebas / Tests
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.pydevd.py.cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Logs y bases de datos
+*.log
+*.sqlite3
+
+# Entornos e IDEs (VS Code, PyCharm)
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
